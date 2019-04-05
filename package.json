@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "es6-promise": "^4.0.5",
-    "fetch-ponyfill": "^3.0.2",
+    "fetch-ponyfill": "git+https://github.com/msklyarov/fetch-ponyfill.git",
     "is-plain-object": "^2.0.1",
     "object-assign": "^4.1.0",
     "pubnub": "^4.4.2"
